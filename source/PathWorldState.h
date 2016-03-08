@@ -38,4 +38,5 @@ public:
 	// Textures
 	StaticTexture graphTexture;
 	void StartWalls();
+	void createWall(int _width, int _height);
 };
